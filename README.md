@@ -1,2 +1,2 @@
 # portfolio-2023
-blah blah
+A collection of projects containing few different frameworks.
